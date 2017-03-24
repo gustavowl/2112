@@ -1,0 +1,2 @@
+This was the final project for the introductory programming course at Universidade Federal do Rio Grande do Norte. It was developed during the end of the first semester of 2014.
+This is a version of the 2048 game for the terminal. There is one basic change, though. This version works with float numbers so the user wins the game when the number 2112 (not 2048) is created. The main reason for that approach was... well... Rush!
